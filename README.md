@@ -1,8 +1,8 @@
 # WebPageProject-SBA-307
 ---Github link to this project---
-    https://github.com/Jecor27/WebPageProject-SBA-307
+    (https://github.com/Jecor27/WebPageProject-SBA-307)
 ---Websitelink---
-    jecor27.github.io/WebPageProject-SBA-307/
+    (https://jecor27.github.io/WebPageProject-SBA-307/)
 
 This website was about adopting a specific breed named Australian Shepherds from a farm where they are raised from. This was inspired from my own experience since i currently own 3 Australian Shepherds. I also added 2 links that would lead to 2 mini games called CSS diner and Flexbox froggy incase you are someone who wishes to practice using those games. 
 
